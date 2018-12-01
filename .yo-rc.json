@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "woka",
+    "packageName": "vn.geardao.woka",
+    "packageFolder": "vn/geardao/woka",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "OGVjOGVhN2VmMDI0OThlN2I0YjAxZTVlOGJlZDEzYzEwYTM2ZWVhYzA2ZGM5ZDlmNzZiNjVkYWE5YTg2OTI1OTIxYzZjZWQxOGZhNGI5MjlmNTU0MjhjMWI2NjMxNzg2OGRkOWI1YWMyMTg4YWZhMzg3Mjk4MDgwMDA5OTRlZjU=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "sonvc94",
+  "repository-name": "woka"
+}
